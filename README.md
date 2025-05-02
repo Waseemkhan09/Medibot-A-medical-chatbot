@@ -57,8 +57,20 @@ HF_TOKEN=your_huggingface_api_key_here
 In a new terminal:
 ```bash
 streamlit run medibot.py
+```
 ---
 
 ## Notes
+
 1.Requires an active internet connection to access HuggingFace models.
 2.Designed for educational/demo purposes. Do not use for real medical diagnosis.
+
+## 📧 Contact
+
+For queries, feedback, or collaboration:  
+📩 **waseem7861khan@gmail.com**
+
+---
+
+⭐ If you found this helpful, please consider giving it a star!
+
